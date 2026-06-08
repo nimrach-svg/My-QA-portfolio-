@@ -3,6 +3,7 @@
 ## About Me
 Nimra Tahir
 BS Software Engineering Student
+stack : sofware quality assurance / software testing 
 
 ## Internship Work
 
@@ -24,10 +25,14 @@ BS Software Engineering Student
 ### Security Testing     ( perform on  testfire.net )
 - Vulnerability Assessment
 - OWASP Testing
+- security testing summary report 
+### CI/CD 
+Pipeline workflow documentaion   
 
 ## Tools Used
 - Selenium
 - Python
 - Postman
 - JMeter
+- zap (owsap )
 - GitHub
